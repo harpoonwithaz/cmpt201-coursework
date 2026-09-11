@@ -1,3 +1,6 @@
+# Course specific
+.record/
+
 # Prerequisites
 *.d
 
